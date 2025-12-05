@@ -1,5 +1,5 @@
 -- ============================================================
--- SQL Test Solutions (solutions.sql)
+-- SQL Test Solutions 
 -- Assumptions:
 --  1) A refunded purchase has refund_time IS NOT NULL.
 --  2) Timestamps are timezone-aware or comparable; functions used are Postgres-compatible.
